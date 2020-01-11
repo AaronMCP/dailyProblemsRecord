@@ -1,0 +1,9 @@
+/* 做移动端开发时推荐的初始化css */
+
+/* 禁止复制、选中文本 */
+.element {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
